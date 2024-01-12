@@ -37,7 +37,7 @@ class Score(Turtle):
     def update_score_txt(self):
         self.clear()
         self.write(arg=f'Score: {self.total_score}', align=ALIGNMENT, font=FONT1)
-        self.goto(-187, 230)
+        self.goto(-192, 230)
         self.write(arg=f'High Score: {self.highscore}', align=ALIGNMENT, font=FONT1)
         self.set()
 
