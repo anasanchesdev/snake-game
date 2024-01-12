@@ -5,7 +5,6 @@
 </head>
 <body>
     <h2>SNAKE GAME 🐍 </h2> 
-    <hr>
     <em>Last update: January 12th, 2024</em>
     <p>
         Fun and simple snake game built in Python! Features  highscores and pause screen. <br>
