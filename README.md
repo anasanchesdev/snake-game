@@ -7,7 +7,7 @@
         <h2>SNAKE GAME 🐍 </h2> 
         <em>Last update: January 12th, 2024</em>
         <p>
-            Fun and simple snake game built in Python using the module Turtle Graphics! Features  highscores and pause screen. <br>
+            Fun and simple snake game built in Python using Turtle Graphics! Features  highscores and pause screen. <br>
         </p>
         Planning on:
         <ul>
