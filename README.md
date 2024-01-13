@@ -8,8 +8,8 @@
         <em>Last update: January 12th, 2024</em>
         <p>
             Fun and simple snake game built in Python! Features  highscores and pause screen. <br>
-            Planning on:
         </p>
+        Planning on:
         <ul>
             <li>Implementing different themes;</li>
             <li>Improving interface;</li>
